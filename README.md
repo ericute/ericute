@@ -10,7 +10,7 @@ I started my development career in 2008. I was doing ***Java*** development hand
 
 ### *Skills and Technologies handled over the years*
 
-JavaScript, React, AngularJS, Next.js, Jest, Koa.js, Angular, Shopify, SharePoint, Handshake, Nintex Workflows, MSSQL, Oracle SQL, PostgreSQL, Knex.js, PowerShell, Azure DevOps, AWS, Java, ~~Pega~~, ~~JaserReports~~, IIS, ~~BMC Atrium Orchestrator~~, ~~BMC Control-M Workload Automation~~, ~~Cisco Prime Service Catalog~~
+JavaScript, React, AngularJS, Next.js, Jest, Koa.js, Angular, Shopify, SharePoint, Handshake, Nintex Workflows, MSSQL, Oracle SQL, PostgreSQL, Knex.js, PowerShell, Azure DevOps, AWS, Java, ~~Pega~~, ~~JaserReports~~, IIS, ~~BMC Atrium Orchestrator~~, ~~BMC Control-M Workload Automation~~, ~~Cisco Prime Service Catalog~~, ~~Oracle CC&B~~
 
 <!--
 **ericute/ericute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
