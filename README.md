@@ -2,7 +2,7 @@
 
 I am a developer. I've always been ***passionate*** in building something that could ***make living life easier*** and ***more enjoyable***.
 
-On my free time, I work on the Shopify platform 🛒 with React as the front-end (lib/framework), and Next.js / Koa.js as the back-end frameworks.
+I work on the Shopify platform 🛒 with React as the front-end (lib/framework), and Next.js / Koa.js as the back-end frameworks.
 
 ### *What have I been doing in the corporate world?*
 
