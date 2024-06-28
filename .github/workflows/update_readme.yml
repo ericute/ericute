@@ -1,0 +1,24 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Generate README Content
+        run: |
+          echo "## Latest Repositories" > README.md
+          echo "" >> README.md
+          curl -s https://api.github.com/users/ericute/repos?sort=updated | jq -r '.[] | "* [\(.name)](\(.html_url))"' >> README.md
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update README with latest repositories"
