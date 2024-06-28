@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 When I'm not in front of a computer, you can find me everywhere. I love doing long drives/road trips 🚘. I've been hiking since 2012 . I started long bike rides in 2019. During pandemic, I did remote work for a couple of months in an island and have made friends there. With all that, you may find it weird that I consider myself an introvert. I'm actually very awkward at small talks 😅 but I like deep and meaningful conversations.🤩
 
+<br />
+
 ![Ericute's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericute&show_icons=true&theme=dark)
 
 ![Ericute's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericute&theme=dark)
+
+[![Ericute's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ericute&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Ericute's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericute&theme=dark)
