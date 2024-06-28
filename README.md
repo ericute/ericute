@@ -33,10 +33,8 @@ When I'm not in front of a computer, you can find me everywhere. I love doing lo
 
 <br />
 
-![Ericute's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericute&show_icons=true&theme=dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericute&theme=github_dark)
 
 ![Ericute's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericute&theme=dark)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericute&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericute&layout=compact&theme=dark)
