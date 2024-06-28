@@ -37,6 +37,6 @@ When I'm not in front of a computer, you can find me everywhere. I love doing lo
 
 ![Ericute's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericute&theme=dark)
 
-[![Ericute's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ericute&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericute&theme=github_dark)
 
-![Ericute's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericute&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericute&layout=compact&theme=dark)
