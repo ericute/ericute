@@ -2,7 +2,7 @@
 
 I am a developer. I've always been **_passionate_** in building something that could **_make living life easier_** and **_more enjoyable_**.
 
-I work on the Shopify platform 🛒 with React as the front-end (lib/framework), and Next.js / Koa.js as the back-end frameworks.
+I work on the Shopify platform 🛒 with React as the front-end (lib/framework), and Next.js / Node.js as the back-end framework.
 
 ### _What have I been doing in the corporate world?_
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### _Fun facts about me_
 
-When I'm not in front of a computer, you can find me everywhere. I love doing long drives/road trips 🚘. I've been hiking since 2012 . I started long bike rides in 2019. During pandemic, I did remote work for a couple of months in an island and have made friends there. With all that, you may find it weird that I consider myself an introvert. I'm actually very awkward at small talks 😅 but I like deep and meaningful conversations.🤩
+When I'm not in front of a computer, I try exploring in my own little way. I love doing long drives/road trips 🚘. I've been hiking since 2012 . I started long bike rides in 2019. During pandemic, I did remote work for a couple of months in an island and have made friends there. With all that, you may find it weird that I consider myself an introvert. I'm actually very awkward at small talks 😅 but I like deep and meaningful conversations.🤩
 
 <br />
 
